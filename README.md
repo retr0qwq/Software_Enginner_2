@@ -1,2 +1,2 @@
 # Software_Enginner_2
-the second repository
+the B3 branch in the second repository
