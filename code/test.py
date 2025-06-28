@@ -5,6 +5,7 @@ from keras_py.mobileNet import MobileNet
 from PIL import Image
 import cv2
 import numpy as np
+import pandas as pd
 import matplotlib.pyplot as plt
 
 # -------------------------- 请加载您最满意的模型 ---------------------------
