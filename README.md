@@ -1,2 +1,2 @@
-# Software_Enginner_2
-the second repository
+# Software_Engineer
+the individual project of Software_Engineer Lecture
